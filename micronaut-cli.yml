@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.capitaflow
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, flyway, hibernate-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mockito, netty-server, postgres, properties, readme, security-annotations, security-jwt, shade, static-resources, test-resources]
