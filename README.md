@@ -1,2 +1,2 @@
-# CapitaFlow
+# CapitaFlow [![Qodana](https://github.com/gmitaros/CapitaFlow/actions/workflows/code_quality.yml/badge.svg)](https://github.com/gmitaros/CapitaFlow/actions/workflows/code_quality.yml)
 CapitaFlow is a comprehensive personal finance management application designed to help users track their investments in stocks, indexes, bonds, and cryptocurrencies. The application allows users to set up portfolios, categorize assets, and analyze financial trends.
